@@ -9,5 +9,6 @@ _BioRxiv_ version is available at: https://www.biorxiv.org/content/10.1101/2024.
 Raw data can be downloaded from: https://academiccommons.columbia.edu/doi/10.7916/y615-0e51
 
 
+![](figure1_Methods2.jpg)
 
 Updated March 19, 2024 by [Netanel Ofer](https://github.com/netanelofer)
